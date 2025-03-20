@@ -11,7 +11,8 @@
 
 #descripción
 Este proyecto consiste en un sistema de recomendación de películas que sugiere opciones a los usuarios en función de sus preferencias y las de otros con gustos similares.
-![](imgs/descripcion.gif)
+![](imgs/descripcion1.gif)
+![](imgs/descripcion2.gif)
 
 #Arquitectura
 * Arquitectura del proyecto + imagen
