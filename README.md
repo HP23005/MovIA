@@ -21,15 +21,15 @@ Este proyecto consiste en un sistema de recomendación de películas que sugiere
 # Proceso
 * Proceso de desarrollo:
 
--Fuente del dataset
+- Fuente del dataset
 https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data/data
 
--Limpieza de datos
+- Limpieza de datos
 ![](imgs/limpiezadatos1.png)
 ![](imgs/limpiezadatos2.png)
 ![](imgs/limpiezadatos3.png)
 
--Estadísticos (Valores, gráficos, …)
+- Estadísticos (Valores, gráficos, …)
 
 # EstadoDelProyecto
 El sistema de recomendación está funcional y ofrece sugerencias de películas basadas en las preferencias de los usuarios. Aunque se han identificado posibles mejoras en la precisión y optimización del modelo, por el momento no se tiene previsto implementarlas. Además, se ha considerado la posible implementación de un sitio web donde los usuarios puedan ingresar su ID y recibir sus recomendaciones de manera personalizada.
