@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data/data
 ![](imgs/limpiezadatos2.png)
 ![](imgs/limpiezadatos3.png)
 
-- Estadísticos (Valores, gráficos, …)
+- Estadísticos
 ![](imgs/grafica1.png)
 ![](imgs/grafica2.png)
 ![](imgs/grafica3.png)
