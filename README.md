@@ -15,7 +15,6 @@ Este proyecto consiste en un sistema de recomendación de películas que sugiere
 ![](imgs/descripcion2.gif)
 
 # Arquitectura
-* Arquitectura del proyecto + imagen
 ![](imgs/arquitectura.png)
 
 # Proceso
@@ -30,6 +29,10 @@ https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data/data
 ![](imgs/limpiezadatos3.png)
 
 - Estadísticos (Valores, gráficos, …)
+![](imgs/grafica1.png)
+![](imgs/grafica2.png)
+![](imgs/grafica3.png)
+![](imgs/grafica4.png)
 
 # EstadoDelProyecto
 El sistema de recomendación está funcional y ofrece sugerencias de películas basadas en las preferencias de los usuarios. Aunque se han identificado posibles mejoras en la precisión y optimización del modelo, por el momento no se tiene previsto implementarlas. Además, se ha considerado la posible implementación de un sitio web donde los usuarios puedan ingresar su ID y recibir sus recomendaciones de manera personalizada.
