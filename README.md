@@ -19,7 +19,7 @@ Este proyecto consiste en un sistema de recomendación de películas que sugiere
 ![](imgs/arquitectura.png)
 
 # Proceso
-* Proceso de desarrollo:
+Proceso de desarrollo:
 
 - Fuente del dataset
 https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data/data
